@@ -1,7 +1,7 @@
 package com.incture.automation.maven;
 
 
-//verifyTitle
+//verifyTitlenew
 import library.Utility;
 
 import org.openqa.selenium.WebDriver;
